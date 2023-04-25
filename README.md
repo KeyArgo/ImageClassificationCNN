@@ -1,5 +1,3 @@
-# CIFAR-10 Image Classification using CNN
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
