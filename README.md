@@ -4,7 +4,7 @@
   <a href="https://github.com/KeyArgo/ImageClassificationCNN">
     <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
-
+<h2 align="center">Image Classification CNN</h2>
 <h3 align="center">Convolutional Neural Network for CIFAR-10 dataset</h3>
 
   <p align="center">
