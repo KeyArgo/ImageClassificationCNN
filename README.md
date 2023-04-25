@@ -60,9 +60,25 @@ This repository contains a TensorFlow-based implementation of a Convolutional Ne
 
 ### Built With
 
-* [![TensorFlow][TensorFlow-logo]][TensorFlow-url]
-* [![Keras][Keras-logo]][Keras-url]
-* [![Matplotlib][Matplotlib-logo]][Matplotlib-url]
+<p align="left">
+  <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
+  </a>
+</p>
+
+<p align="left">
+  <a href="https://keras.io/" target="_blank" rel="noreferrer">
+    <img src="https://keras.io/img/logo.png" alt="keras" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
+  </a>
+</p>
+
+
+<p align="left">
+  <a href="https://matplotlib.org/" target="_blank" rel="noreferrer">
+    <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="matplotlib" height="40" style="background-color:black;padding:5px;border-radius:5px;object-fit: contain;"/>
+  </a>
+</p>
+
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
